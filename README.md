@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-haidar-159&label=Profile%20views&color=0e75b6&style=flat" alt="ali-haidar-159" /> </p>
 
-- 🌱 I’m currently learning **C Programming , HTML**
+- 🌱 I’m currently learning **Programming**
 
 - 📝 I regularly write articles on [https://alihaidarewu.blogspot.com](https://alihaidarewu.blogspot.com)
 
-- ⚡ Fun fact **I think I am Funny 😎**
+- ⚡ Fun fact : **I think I am Funny 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-haidar-159&show_icons=true&locale=en&layout=compact" alt="ali-haidar-159" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ali-haidar-159&show_icons=true&locale=en" alt="ali-haidar-159" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ali-haidar-159&" alt="ali-haidar-159" /></p>
