@@ -14,7 +14,7 @@
 
  👨‍💻 All of my projects are available at [My_Portfolio](https://ali-haidar-159.github.io/my-portfolio/)
 
- 📝 I regularly write articles on [My_Website](alihaidarewu.blogspot.com)
+ 📝 I regularly write articles on [My_Website](https://alihaidarewu.blogspot.com)
  
  📫 How to reach me :  **alihaidar379227@gmail.com**
 
