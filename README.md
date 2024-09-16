@@ -31,9 +31,9 @@
 <div align="center"> 
 <h3 >Connect with me:</h3>
 <p>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ali-haidar-engineer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-haidar-engineer/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/people/ali-haidar/pfbid02mcuztryagyfka4c1jp71i6m2s7v1afka72lqeja26s1esafj52akr5cnrhsrndnwl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/ali-haidar/pfbid02mcuztryagyfka4c1jp71i6m2s7v1afka72lqeja26s1esafj52akr5cnrhsrndnwl/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@alihaidar-engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@alihaidar-engineer" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ali-haidar-engineer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-haidar-engineer/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100078334235501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/ali-haidar/pfbid02mcuztryagyfka4c1jp71i6m2s7v1afka72lqeja26s1esafj52akr5cnrhsrndnwl/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@alihaidar-engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@alihaidar-engineer" height="30" width="40" /></a>
 </p>
 </div>
 
