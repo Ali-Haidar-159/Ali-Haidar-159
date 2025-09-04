@@ -20,9 +20,9 @@
 
  📄 Know about my experiences [Resume / CV](https://www.dropbox.com/scl/fo/aio3h4xl7oxcl6v1qxnwe/AOD_GZploawk7dHTIvIqluA?rlkey=vc5yhjoggvoekhf2u8ie5ad01&e=1&st=q918y621&dl=0)
 
- 🌱 I’m currently learning **Java Script , Bootstrap**
+ 🌱 I’m currently learning **Nest.JS For Backend**
 
- 💬 Ask me about **C , Java , C# , HTML-CSS ,Java Script**
+ 💬 Ask me about **C , Java , HTML-CSS ,Java Script , Node.JS , Express.JS , Database**
 </div>
 
 <br/>
