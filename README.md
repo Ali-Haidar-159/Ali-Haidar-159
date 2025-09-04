@@ -12,7 +12,7 @@
 <div align="center">
 
 
- 👨‍💻 All of my projects are available at [My_Portfolio](https://ali-haidar-159.github.io/my-portfolio/)
+ 👨‍💻 All of my projects are available at [My_Portfolio](https://ali-haidar-portfolio.vercel.app/)
 
  📝 I regularly write articles on [My_Website](https://alihaidarewu.blogspot.com)
  
