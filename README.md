@@ -22,7 +22,7 @@
 
  🌱 I’m currently learning **Nest.JS For Backend**
 
- 💬 Ask me about **C , Java , HTML-CSS ,Java Script , Node.JS , Express.JS , Database**
+ 💬 Ask me about **Java , HTML-CSS , Java Script , TypeScript , Node.JS , Express.JS , Database**
 </div>
 
 <br/>
